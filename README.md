@@ -29,7 +29,9 @@ Para isso, fique a vontade para adotar softwares, processos e ferramentas que co
 RESPOSTA DO DESAFIO 
 
 Ao me posicionar para a categoria ANALISTA DE DADOS E BUSINESS INTELLIGENCE observei as questões propostas para o desafio e tomei a decisão de usar apenas o Microsoft Power Bi para criar a proposta abaixo:
+
 ![Dashboard](dashboard.png)
+
 Aplicando simples filtros de datas, categorias, produtos e avaliações a ferramenta consegue demostra em um dashboard a evolução das vendas no período abordado e em sua melhor posição pelo mundo, oferecendo assim boas perspectivas para uma tomada de decisão, aonde se pode achar facilmente os itens maior demanda, seus melhores consumidores e o custo médio de envio; ressaltando que o inverso também é alcançado por essa abordagem, aonde pode-se encontrar o período e produto e a localidade de pior desempenho respectivamente.
 Com isso podemos facilmente responder a maioria das perguntas sugeridas no desafio.
 
