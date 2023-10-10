@@ -28,7 +28,7 @@ Para isso, fique a vontade para adotar softwares, processos e ferramentas que co
 
 RESPOSTA DO DESAFIO 
 
-Ao me posicionar para a categoria ANALISTA DE DADOS E BUSINESS INTELLIGENCE observei as questões propostas para o desafio e tomei a decisão de usar apenas o Microsoft Power Bi para criar a proposta abaixo:
+Ao me posicionar para a categoria ANALISTA DE DADOS E BUSINESS INTELLIGENCE observei as questões propostas para o desafio e tomei a decisão de usar apenas o Microsoft Power Bi para criar a solução abaixo:
 
 ![Dashboard](dashboard.png)
 
